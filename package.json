@@ -1,0 +1,19 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chondan Susuwan",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.0.0",
+    "hasha": "^5.2.2",
+    "js-sha256": "^0.9.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
